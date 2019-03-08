@@ -2,8 +2,10 @@
 
 ## Table of Contents
 * [Resources](#Resources)
-* [Bounties](#Bounties-for-EthDenver)
-    * [Overview](#Bounty-Overview-Rockies-SKALER)
+* [Introduction](#Introduction)
+    * [Why SKALE at the Hackathon](#Why-SKALE-at-the-Hackathon)
+* [Bounties](#Bounties-for-EthParis)
+    * [Overview](#Bounty-Overview)
     * [Judging Criteria](#Judging-Criteria)
 * [Hackathon Idea Categories](#Hackathon-Idea-Categories)
     * [Microtransactions](#Microtransactions)
@@ -15,31 +17,29 @@
 * [SKALE Development channel on Discord](https://discord.gg/vvUtWJB) (👈Come here to get your SKALE chain)
 * [SKALE Developer documentation](https://developers.skalelabs.com)
 
-## Bounties (for EthDenver)
+## Introduction
+### Why SKALE at the Hackathon?
 
-### Bounty Overview: Rockies SKALER
-Description: The most impressive scaling submission based on judgment criteria detailed below.
+SKALE empowers Ethereum DApps to scale solidity smart contracts in a secure, reliable, cost-effective manner. In short — with two clicks you can deploy your dApp to a fast sidechain with flexible blocksizes, 1 second blocktimes, and no gas. These features are great IRL, but are also great at hackathons where performance helps you have a better showing with the judges.
 
-* **1st Place Prize Amount: $2,000** 🏆
-* **Honorable Mention: $1,000 each to up to three teams**
+## Bounties (for EthParis)
+
+### Bounty Overview
+Description: The most impressive dApps using SKALE.
+
+* **1st Place Prize Amount: €1,000** 🏆 for a super dDapp on SKALE
+* **Honorable Mentions: €500 each to up to five teams** for best dApps on SKALE
 
 #### Requirements
 * [Join our Discord channel](https://discord.gg/vvUtWJB)
-* Brief 3-5 minute presentation describing the scaling issue and how SKALE was used to solve the issue.
+* Brief 3-5 minute presentation describing the project and use of SKALE chain.
 * Use of a SKALE chain in solution.
 * Link to open source code.
 
 ### Judging Criteria
-Show the world what is possible when we aren’t encumbered with scaling issues. Run smart contracts and transactions at high speeds. Prizes will be awarded to teams based on the following criteria:
+The dApps will be judged based on quality of the idea, effort, and the UX. There is no requirement for wild scaling use cases for the bounties. We just want to see Ethereum work fast and bring value.
 
-**Powerful scaling use cases**: Show off the power of SKALE and show how decentralized smart contract execution in Layer 2 can make an impact on the world.
-
-**Creativity**: This is a new domain. We appreciate creativity and innovative thinking. Now that the constraints are off, show the world what Ethereum can do!
-
-**Effort over perfection**: We love hustle. We love effort. We are prioritizing effort over perfection for the ETHDenver hackathon. We would rather see something hacked together that could be fixed up later rather than something limited by perfection. When we hear your pitch, please tell us about your effort. We’ll also look directly at your code to see the fruits of your labor.
-
-Advancements in both smart contract complexity and computation power vastly increase the types of dApps that are feasible with solidity. While we aren’t expecting someone to be running ADMM Optimization over the weekend, we do hope that people no longer have a fear of running out of gas or using loops in their code.
-
+With SKALE advancements in both smart contract complexity and computation power vastly increase the types of dApps that are feasible with solidity. While we aren’t expecting someone to be running ADMM Optimization over the weekend, we do hope that people no longer have a fear of running out of gas or using complex algorithms in their code :)
 
 ## Hackathon Idea Categories
 
